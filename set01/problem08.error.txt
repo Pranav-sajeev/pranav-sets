@@ -1,0 +1,8 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> gcc problem08.c
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> .\a.exe        
+Enter  the size of the array:
+2
+Enter the vlues of the array:
+1
+2
+The sum of the array of size 2 is 3

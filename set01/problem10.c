@@ -33,10 +33,11 @@ int stringcompare(char *string1, char *string2)
         {
             result=2;
         }
+        
     }
     return result;
 }
 void output(char *string1, char *string2, int result)
 {
-    printf("This %s string is latger than %s string and the result is %d\n",string1,string2,result);
+    printf("This %s string is larger than %s string and the result is %d\n",string1,string2,result);
 }

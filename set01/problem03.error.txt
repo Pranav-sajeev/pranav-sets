@@ -1,0 +1,6 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> .\a.exe
+enter the number
+2
+enter the number
+1
+the sum of 2 and 1 is 3

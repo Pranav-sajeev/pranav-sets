@@ -1,0 +1,7 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> gcc problem02.c
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> .\a.exe        
+Enter the value of a
+2
+Enter the value of b
+1
+The sum of 2 and 1 is 3

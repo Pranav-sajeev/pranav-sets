@@ -1,0 +1,4 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> .\a.exe
+Enter the value of n:
+6
+The sum of 6 is 21

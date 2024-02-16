@@ -1,0 +1,9 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> gcc problem06.c
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> .\a.exe        
+enter the value of a
+1
+enter the value of b
+2
+enter the value of c
+3
+the largest of 1, 2 and 3 is 3

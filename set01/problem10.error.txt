@@ -1,0 +1,5 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> .\a.exe        
+Enter the first string
+H
+Enter the second string
+h

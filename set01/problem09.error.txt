@@ -1,0 +1,8 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> .\a.exe
+Enter the number:
+4
+2.000000
+2.000000
+2.000000
+2.000000
+The square root of 4.000000 is 2.000000

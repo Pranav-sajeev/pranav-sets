@@ -1,0 +1,34 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01> gdb a.exe      
+GNU gdb (GDB) 7.6.1
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01\a.exe...done.
+(gdb) r
+Starting program: C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01/a.exe
+[New Thread 9204.0x3004]
+[New Thread 9204.0x4560]
+Enter the number:
+2
+1.500000
+1.416667
+The square root of 2.000000 is 1.416667
+[Inferior 1 (process 9204) exited normally]
+(gdb) r
+Starting program: C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set01/a.exe
+[New Thread 19416.0x3410]
+[New Thread 19416.0x520]
+Enter the number:
+4
+2.000000
+2.000000
+2.000000
+2.000000
+The square root of 4.000000 is 2.000000
+[Inferior 1 (process 19416) exited normally]
+
