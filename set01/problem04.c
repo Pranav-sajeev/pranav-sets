@@ -5,9 +5,9 @@ void output(int a, int b, int sum);
 
 void input(int *a, int *b)
 {
-    printf("enter the value of a\n");
+    printf("enter the value of a:\n");
     scanf("%d",a);
-    printf("enter the value of b\n");
+    printf("enter the value of b:\n");
     scanf("%d",b);
 }
 void add(int a, int b, int *sum)
