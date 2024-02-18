@@ -7,11 +7,11 @@ void output(int a, int b, int c, int largest);
 
 void input(int *a, int *b, int *c)
 {
-    printf("enter the value of a\n");
+    printf("enter the value of a:\n");
     scanf("%d",a);
-    printf("enter the value of b\n");
+    printf("enter the value of b:\n");
     scanf("%d",b);
-    printf("enter the value of c\n");
+    printf("enter the value of c:\n");
     scanf("%d",c);
 }
 void compare(int a, int b, int c, int *largest)
