@@ -6,7 +6,7 @@ void output(int a, int b, int c, int largest);
 int input()
 {
     int x;
-    printf("Enter the first number");
+    printf("Enter the first number:");
     scanf("%d",&x);
     return x;
 }
