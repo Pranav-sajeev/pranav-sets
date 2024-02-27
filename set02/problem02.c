@@ -31,7 +31,8 @@ int check_scalene(int a, int b, int c)
 {
     if (a != b && a != c && b != c)
         return 1; // Scalene triangle
-    else
+       
+    else 
         return 0; // Not a scalene triangle
 }
 
@@ -40,5 +41,5 @@ void output(int a, int b, int c, int is_scalene)
     if (is_scalene)
         printf("The triangle with sides %d, %d, and %d is a scalene triangle\n", a, b, c);
     else
-        printf("The triangle with sides %d, %d, and %d is not a scalene triangle\n", a, b, c);
+        printf("The triangle with sides %d, %d, and %d is not a scalene triangle or dosent form a triangle\n", a, b, c);
 }
