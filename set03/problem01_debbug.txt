@@ -1,0 +1,21 @@
+PS C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set03> gdb a.exe
+GNU gdb (GDB) 7.6.1
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set03\a.exe...done.
+(gdb) r
+Starting program: C:\Users\Parvathy Sajeev\OneDrive\Documents\psc2sem\pranav-sets\set03/a.exe 
+[New Thread 20164.0x2820]
+[New Thread 20164.0x2220]
+Enter the coordinates of the first point (x1 y1): 1
+2
+Enter the coordinates of the second point (x2 y2): 1
+2
+The distance between point (1.0000000, 2.0000000) and (1.0000000, 2.0000000) is 0.0000
+[Inferior 1 (process 20164) exited normally]
